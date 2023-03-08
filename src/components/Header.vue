@@ -2,7 +2,7 @@
 
 <template>
   <div class="greetings">
-    Hello world
+    Hello world  7rufgik
   </div>
 </template>
 
